@@ -11,9 +11,9 @@
 
 -------------------------------------------------------------
 
-**_Note:_ 📢** Dont Forget to add the port number and localhost in app.py
+> **_Note:_ 📢** Dont Forget to add the port number and localhost in app.py
 ------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------
+
 
 <h1 style="color:blue;">Happy Coding 🎉</h1>
