@@ -9,7 +9,10 @@
 
 # This model is trained in Linear Regression algorithm using scikit-learn
 
+-------------------------------------------------------------
+
 **_Note:_ 📢** Dont Forget to add the port number and localhost in app.py
+------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------
 
