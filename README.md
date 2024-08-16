@@ -9,6 +9,8 @@
 
 # This model is trained in Linear Regression algorithm using scikit-learn
 
+# [Click Here to Learn More](https://rishabhraj43.hashnode.dev/integrating-machine-learning-model-with-web-app#heading-integrating-with-flask-api)
+
 -------------------------------------------------------------
 
 > **_Note:_ 📢** Dont Forget to add the port number and localhost in app.py
