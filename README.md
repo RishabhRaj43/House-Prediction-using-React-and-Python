@@ -9,7 +9,7 @@
 
 # This model is trained in Linear Regression algorithm using scikit-learn
 
-# [Click Here to Learn More](https://rishabhraj43.hashnode.dev/integrating-machine-learning-model-with-web-app#heading-integrating-with-flask-api)
+# [Click Here to Learn More](https://rishabhraj43.hashnode.dev/integrating-machine-learning-model-with-web-app)
 
 -------------------------------------------------------------
 
